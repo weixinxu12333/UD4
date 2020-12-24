@@ -1,0 +1,12 @@
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.exe
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.deps.json
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.runtimeconfig.json
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.dll
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\bin\Debug\netcoreapp3.1\CalculadoraInversa.pdb
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.AssemblyInfo.cs
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.dll
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.pdb
+C:\Users\wendy\source\repos\CalculadoraInversa\CalculadoraInversa\obj\Debug\netcoreapp3.1\CalculadoraInversa.genruntimeconfig.cache

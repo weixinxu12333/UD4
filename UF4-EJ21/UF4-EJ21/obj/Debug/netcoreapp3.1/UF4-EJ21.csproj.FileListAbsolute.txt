@@ -1,0 +1,12 @@
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\obj\Debug\netcoreapp3.1\UF4-EJ21.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\obj\Debug\netcoreapp3.1\UF4-EJ21.AssemblyInfo.cs
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\obj\Debug\netcoreapp3.1\UF4-EJ21.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\bin\Debug\netcoreapp3.1\UF4-EJ21.exe
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\bin\Debug\netcoreapp3.1\UF4-EJ21.deps.json
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\bin\Debug\netcoreapp3.1\UF4-EJ21.runtimeconfig.json
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\bin\Debug\netcoreapp3.1\UF4-EJ21.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\bin\Debug\netcoreapp3.1\UF4-EJ21.dll
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\bin\Debug\netcoreapp3.1\UF4-EJ21.pdb
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\obj\Debug\netcoreapp3.1\UF4-EJ21.dll
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\obj\Debug\netcoreapp3.1\UF4-EJ21.pdb
+C:\Users\wendy\source\repos\UF4-EJ21\UF4-EJ21\obj\Debug\netcoreapp3.1\UF4-EJ21.genruntimeconfig.cache

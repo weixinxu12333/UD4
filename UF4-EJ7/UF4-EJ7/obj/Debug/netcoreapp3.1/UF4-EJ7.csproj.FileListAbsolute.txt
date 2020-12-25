@@ -1,0 +1,12 @@
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\bin\Debug\netcoreapp3.1\UF4-EJ7.exe
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\bin\Debug\netcoreapp3.1\UF4-EJ7.deps.json
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\bin\Debug\netcoreapp3.1\UF4-EJ7.runtimeconfig.json
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\bin\Debug\netcoreapp3.1\UF4-EJ7.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\bin\Debug\netcoreapp3.1\UF4-EJ7.dll
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\bin\Debug\netcoreapp3.1\UF4-EJ7.pdb
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\obj\Debug\netcoreapp3.1\UF4-EJ7.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\obj\Debug\netcoreapp3.1\UF4-EJ7.AssemblyInfo.cs
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\obj\Debug\netcoreapp3.1\UF4-EJ7.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\obj\Debug\netcoreapp3.1\UF4-EJ7.dll
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\obj\Debug\netcoreapp3.1\UF4-EJ7.pdb
+C:\Users\wendy\source\repos\UF4-EJ7\UF4-EJ7\obj\Debug\netcoreapp3.1\UF4-EJ7.genruntimeconfig.cache
